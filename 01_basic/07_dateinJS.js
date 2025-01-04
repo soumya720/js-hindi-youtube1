@@ -16,9 +16,9 @@
 //console.log(Math.floor(Date.now()/1000));
 //console.log(Date.now());
 
-let newDate = new Date()
-console.log(newDate);
-console.log(newDate.getMonth() + 1);
-console.log(newDate.getDay());
+//let newDate = new Date()
+//console.log(newDate);
+//console.log(newDate.getMonth() + 1);
+//console.log(newDate.getDay());
 //'${newDate.getDay()} and the time'
-newDate.toLocaleString('default',{weekday: "long"})
+//newDate.toLocaleString('default',{weekday: "long"})
